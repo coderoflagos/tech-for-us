@@ -8,7 +8,7 @@ sections:
       You are welcome to TechForUs! A community that is building teenage
       developers all around the world.
     actions:
-      - label: ''
+      - label: Explore
         url: /pricing
         style: primary
       - label: Learn More
