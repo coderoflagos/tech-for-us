@@ -11,7 +11,7 @@ sections:
       - label: Explore
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Join Us
         url: /features
         style: secondary
     image: images/BeFunky-collage (1).jpg
