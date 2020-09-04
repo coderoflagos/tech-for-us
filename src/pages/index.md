@@ -5,8 +5,8 @@ sections:
     title: Welcome to TechForUs!
     subtitle: Hey There!
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      You are welcome to TechForUs! A community that is building teenage
+      developers all around the world.
     actions:
       - label: Try Free
         url: /pricing
