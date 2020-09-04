@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to TechForUs!
-    subtitle: H
+    subtitle: 'Hey There! You are welcome to techForUs, a commun'
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
