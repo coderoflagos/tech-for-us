@@ -45,7 +45,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Team Work\
+      - title: Team Work
         title_align: left
         content: >-
           tw gve teenagers opportunities to work together on different projects
