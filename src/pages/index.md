@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Features
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - title: Section Item 1
         title_align: left
