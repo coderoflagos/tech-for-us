@@ -91,7 +91,7 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    title: What we are t
+    title: R
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
