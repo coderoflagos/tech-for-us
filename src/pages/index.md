@@ -9,7 +9,7 @@ sections:
       developers all around the world.
     actions:
       - label: Explore
-        url: /pricing
+        url: 'javascript:void(0)'
         style: primary
       - label: Join Us
         url: /features
