@@ -98,7 +98,7 @@ sections:
       our Slack Community.
     actions:
       - label: Join Us!
-        url: /features
+        url: ''
         style: secondary
     actions_position: right
     actions_width: fourty
