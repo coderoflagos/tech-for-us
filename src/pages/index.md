@@ -60,13 +60,7 @@ sections:
           different continents like Africa, North America, Europe etc. We are
           building a great community and there should be no room for racism.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/classic/icon-3.svg
         image_position: top
