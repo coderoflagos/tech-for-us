@@ -97,7 +97,7 @@ sections:
       Once you fill the form on the Join Us button, we will send you the link to
       our Slack Community.
     actions:
-      - label: 'Learn '
+      - label: Join Us!
         url: /features
         style: secondary
     actions_position: right
