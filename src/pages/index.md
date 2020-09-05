@@ -48,7 +48,7 @@ sections:
       - title: Team Work
         title_align: left
         content: >-
-          tw gve teenagers opportunities to work together on different projects
+          We give teenagers opportunities to work together on different projects
           that can help the next generation. Members can even work with
           different technologies and build solutions.
         content_align: left
