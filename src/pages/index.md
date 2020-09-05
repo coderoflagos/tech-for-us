@@ -25,7 +25,7 @@ sections:
     title: Features
     subtitle: ''
     grid_items:
-      - title: '24/7 '
+      - title: 24/7 Support
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
