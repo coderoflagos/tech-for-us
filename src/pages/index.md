@@ -21,18 +21,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: features_section
-    features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
-    title: About Us
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
