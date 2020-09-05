@@ -28,9 +28,10 @@ sections:
       - title: 24/7 Support
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          We support any member of the program at any time. We love helping
+          teenagers in anyway we can, we help teenagers by giving them more
+          instructions, giving courses and other things they can do to help the
+          next generation.
         content_align: left
         actions:
           - label: Learn More
