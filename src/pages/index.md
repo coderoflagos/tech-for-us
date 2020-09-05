@@ -67,9 +67,10 @@ sections:
       - title: World Mentorship program
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          We are making things simpler for all teenage developers all around the
+          world. It helps all teenage developers all around the world from
+          different continents like Africa, North America, Europe etc. We are
+          building a great community and there should be no room for racism.
         content_align: left
         actions:
           - label: Learn More
