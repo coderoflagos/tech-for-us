@@ -12,7 +12,7 @@ sections:
         url: 'javascript:void(0)'
         style: primary
       - label: Join Us
-        url: /features
+        url: ''
         style: secondary
     image: images/BeFunky-collage (1).jpg
     media_position: left
