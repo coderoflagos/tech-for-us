@@ -9,7 +9,7 @@ sections:
       developers all around the world.
     actions:
       - label: Explore
-        url: /pricing
+        url: 'javascript:void(0)'
         style: primary
       - label: Join Us
         url: /features
@@ -33,13 +33,7 @@ sections:
           instructions, giving courses and other things they can do to help the
           next generation.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/classic/icon-1.svg
         image_position: top
@@ -52,13 +46,7 @@ sections:
           that can help the next generation. Members can even work with
           different technologies and build solutions.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/classic/icon-2.svg
         image_position: top
@@ -72,13 +60,7 @@ sections:
           different continents like Africa, North America, Europe etc. We are
           building a great community and there should be no room for racism.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/classic/icon-3.svg
         image_position: top
