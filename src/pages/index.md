@@ -12,7 +12,8 @@ sections:
         url: 'javascript:void(0)'
         style: primary
       - label: Join Us
-        url: ''
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSfMeNGCkOUD08DJDPrsXA3oUh8ZW6PjkcjfGDsdQOMFySq7Hg/viewform?usp=sf_link
         style: secondary
     image: images/BeFunky-collage (1).jpg
     media_position: left
