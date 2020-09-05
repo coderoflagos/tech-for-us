@@ -7,32 +7,12 @@
     "base_font": "serif",
     "header": {
         "title": "DIY",
-        "logo": "images/classic/logo.svg",
+        "logo": "images/logo.png",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Features",
-                "url": "/features",
-                "style": "link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
                 "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "url": "/pricing",
                 "style": "link"
             }
         ],
@@ -57,8 +37,8 @@
         "anncmnt_id": "new-features"
     },
     "footer": {
-        "logo": "images/classic/logo.svg",
-        "has_primary_nav": true,
+        "logo": "images/melodic-plankton.png",
+        "has_primary_nav": false,
         "primary_nav_title": "Company",
         "primary_nav_links": [
             {
@@ -72,7 +52,7 @@
                 "style": "link"
             }
         ],
-        "has_secondary_nav": true,
+        "has_secondary_nav": false,
         "secondary_nav_title": "Blog",
         "secondary_nav_links": [
             {
@@ -91,7 +71,7 @@
                 "style": "link"
             }
         ],
-        "has_tertiary_nav": true,
+        "has_tertiary_nav": false,
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
@@ -109,7 +89,7 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/techforus__",
                 "style": "link",
                 "has_icon": true,
                 "icon": "twitter",
@@ -153,10 +133,10 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit-DIY. All rights reserved.",
+        "content": "&copy; TechForUs. All rights reserved.",
         "links": [
             {
-                "label": "Made with Stackbit.",
+                "label": "",
                 "url": "https://www.stackbit.com",
                 "style": "link"
             }
