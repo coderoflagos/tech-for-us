@@ -52,13 +52,7 @@ sections:
           that can help the next generation. Members can even work with
           different technologies and build solutions.
         content_align: left
-        actions:
-          - label: Learn More
-            url: ''
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/classic/icon-2.svg
         image_position: top
