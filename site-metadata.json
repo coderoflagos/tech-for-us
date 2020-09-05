@@ -136,7 +136,7 @@
         "content": "&copy; Stackbit-DIY. All rights reserved.",
         "links": [
             {
-                "label": "Made with Stackbit.",
+                "label": "",
                 "url": "https://www.stackbit.com",
                 "style": "link"
             }
