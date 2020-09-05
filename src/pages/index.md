@@ -93,9 +93,9 @@ sections:
   - type: cta_section
     title: Join Us!
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      There are few steps away to join this program and it's very easy to do.
+      Once you fill the form on the Join Us button, we will send you the link to
+      our Slack Community.
     actions:
       - label: Learn More
         url: /features
