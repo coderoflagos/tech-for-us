@@ -33,13 +33,7 @@ sections:
           instructions, giving courses and other things they can do to help the
           next generation.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/classic/icon-1.svg
         image_position: top
