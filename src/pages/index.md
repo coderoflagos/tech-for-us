@@ -98,7 +98,8 @@ sections:
       our Slack Community.
     actions:
       - label: Join Us!
-        url: ''
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSfMeNGCkOUD08DJDPrsXA3oUh8ZW6PjkcjfGDsdQOMFySq7Hg/viewform?usp=sf_l
         style: secondary
     actions_position: right
     actions_width: fourty
