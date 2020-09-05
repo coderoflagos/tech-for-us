@@ -25,7 +25,7 @@ sections:
     title: Features
     subtitle: ''
     grid_items:
-      - title: 'Section Item '
+      - title: '24/7 '
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
