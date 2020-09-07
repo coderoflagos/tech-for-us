@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: "Welcome to TechForUs! \U0001F499"
+    title: 'Welcome to TechForUs! '
     subtitle: Hey There!
     content: >-
       You are welcome to TechForUs! A community that is building teenage
