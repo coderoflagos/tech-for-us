@@ -1,7 +1,7 @@
 {
     "description": "A tech community for all developers all around the world.",
     "layout": "boxed",
-    "style": "minimal",
+    "style": "classic",
     "palette": "green",
     "mode": "dark",
     "base_font": "sans-serif",
