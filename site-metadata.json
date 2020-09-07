@@ -1,6 +1,6 @@
 {
     "description": "A tech community for al developers all around the world.",
-    "layout": "full-width",
+    "layout": "boxed",
     "style": "classic",
     "palette": "green",
     "mode": "light",
