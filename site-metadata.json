@@ -27,10 +27,11 @@
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
-        "anncmnt_id": "new-features"
+        "anncmnt_id": "new-features",
+        "logo": "images/bold/icon-1.svg"
     },
     "footer": {
-        "logo": "images/melodic-plankton.png",
+        "logo": "images/output-onlinepngtools (5).png",
         "has_primary_nav": false,
         "primary_nav_title": "Company",
         "primary_nav_links": [
