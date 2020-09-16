@@ -1,4 +1,4 @@
-# Stackbit DIY Theme
+# Stackbit DIY Theme for TechForUs
 
 
 # Running Your Site Locally
